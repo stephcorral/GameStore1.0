@@ -1,16 +1,16 @@
 # GameStore1.0
 Adding to my understanding of REST API's one store at a time
 
-#Features
--CRUD Game
--CRUD Merch
--CRUD Stores
+# Features
+- CRUD Game
+- CRUD Merch
+- CRUD Stores
 
-#Build
--Maven
+# Build
+- Maven
 
-#Documentation
--Swagger
+# Documentation
+- Swagger
 
-#Testing
--Mockito
+# Testing
+- Mockito
